@@ -1,1 +1,1 @@
-# first_JS_App
+# first js app
